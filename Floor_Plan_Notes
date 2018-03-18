@@ -1,0 +1,4 @@
+Pros:
+  We would not need to map out every single floor of every single building on campus. This would allow for the navigation of the robot in buildings which it has not been in before.
+Cons:
+  The opinion of the community seems to be that floor plans are not detailed enough to provide an accurate map for the robot. So for this the robot would need to be doing slam as well to continuously update the map or it would need to have an exceptional object avoidance algorithm. 
